@@ -1,0 +1,5 @@
+INSERT INTO locations VALUES (1400, "2014 Jabberwocky Rd", "26192", "Southlake", "Texas", "US");
+INSERT INTO locations VALUES (1500, "2011 Interiors Blvd", "99236", "South San Fransisco", "California", "US");
+INSERT INTO locations VALUES (1700, "2004 Charade Rd", "98199", "Seattle", "Washington", "US");
+INSERT INTO locations VALUES (1800, "460 Bloor St. W.", "ON M5S 1X8", "Toronto", "Ontario", "CA");
+INSERT INTO locations VALUES (2500, "Magdalen Centre", "OX9 9ZB", "Oxford", "Oxford", "UK");

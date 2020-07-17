@@ -1,0 +1,8 @@
+CREATE TABLE Locations (
+	Location_id int(4) NOT NULL PRIMARY KEY,
+    Street_address varchar(40),
+    postal_code varchar(12),
+    city varchar(30) NOT NULL,
+    state_province varchar(25),
+    country_id varchar(2) 
+);
