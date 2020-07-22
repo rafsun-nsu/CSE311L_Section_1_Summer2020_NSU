@@ -6,7 +6,7 @@
     }
 
     $sql = "INSERT INTO test_table(id, username, password) VALUES
-            (1, 'Demo', 'Demo')";
+            ('', 'Demso', 'Demo')";
 
     if (mysqli_query($conn, $sql)) {
         echo "Inserted.";
